@@ -1,6 +1,6 @@
 # no style, pls!
 
-A fork of [no style, please!](https://github.com/riggraz/no-style-please) created for use on [my personal blog](https://ender.drk.cat).
+A fork of [no style, please!](https://github.com/riggraz/no-style-please) created for use on [my personal blog](https://luksireiku.github.io/).
 
 ## Contributing
 
